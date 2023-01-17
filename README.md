@@ -7,3 +7,6 @@ your team wants to understand how casual riders and annual members use Cyclistic
 your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives
 must approve your recommendations, so they must be backed up with compelling data insights and professional data
 visualizations.
+
+
+https://rpubs.com/TB-proj/992811
