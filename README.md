@@ -8,5 +8,9 @@ your team will design a new marketing strategy to convert casual riders into ann
 must approve your recommendations, so they must be backed up with compelling data insights and professional data
 visualizations.
 
-
+https://rpubs.com/TB-proj/992829
+https://rpubs.com/TB-proj/992828
+https://rpubs.com/TB-proj/992827
+https://rpubs.com/TB-proj/992826
+https://rpubs.com/TB-proj/992825
 https://rpubs.com/TB-proj/992811
