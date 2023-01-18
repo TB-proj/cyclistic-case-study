@@ -19,7 +19,7 @@ User data from the past 12 months, November 2021 - October 2022 has been made av
 ## Tools for analysis
 R was used due to the data size and visualizations needed to complete this analysis.
 
-- Prepare, process and analyze steps are described in the R script with comments.
+- Prepare, process and analyze steps are described in the R script with comments
 
 ## Share
 Created output graphs were uploaded to rpubs for public use.
@@ -41,7 +41,7 @@ https://rpubs.com/TB-proj/992811
 - Casual riders use the bikes more for leisure based on the peak usage in summer months and weekends
 - Casual riders do not make many rides during winter months
 - Casual riders prefer electric bike to classic bike
-- Docked bike is not being used much
+- Docked bikes are not being used much
 - Annual members mainly use the bikes for their commutes as their usage peaks on weekdays during rush hour
 - Annual members prefer classic bikes 
 
