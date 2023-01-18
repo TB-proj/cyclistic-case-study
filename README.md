@@ -35,3 +35,14 @@ https://rpubs.com/TB-proj/992826
 https://rpubs.com/TB-proj/992825
 
 https://rpubs.com/TB-proj/992811
+
+## Key findings
+Casual riders make longer rides (almost 2x longer than annual members on average)
+Casual riders use the bikes more for leisure based on the peak usage in summer months and weekends
+Casual riders do not make many rides during winter months
+Casual riders prefer electric bike to classic bike
+
+Annual members mainly use the bikes for their commutes as their usage peaks on weekdays during rush hour
+Annual members mainly use mainly classic bikes and rarely use docked bikes
+
+## Recommendations
