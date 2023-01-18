@@ -15,7 +15,17 @@ visualizations.
 
 ## Data sources
 User data from the past 12 months, November 2021 - October 2022 has been made available. Each data set is in csv format and details every ride logged by Cyclistic customers. This data has been made publicly available via license by Motivate International Inc. and the city of Chicago. Personal data has been scrubbed for privacy.
+
+## Tools for analysis
+R was used due to the data size and visualizations needed to complete this analysis.
+
+- Prepare, process and analyze steps are described in the R script with comments.
+
+## Share
+Created output graphs were uploaded to rpubs for public use.
+
 https://rpubs.com/TB-proj/992829
+
 https://rpubs.com/TB-proj/992828
 https://rpubs.com/TB-proj/992827
 https://rpubs.com/TB-proj/992826
