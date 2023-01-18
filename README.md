@@ -47,5 +47,5 @@ https://rpubs.com/TB-proj/992811
 
 ## Recommendations
 - Exchange docked bikes for electric bikes, as casual riders prefer them
-- Run a winter months marketing campaign for discounted annual or just winter membership
+- Run a marketing campaign during winter months for discounted annual membership or just winter membership
 - Lower single fare price during rush hours, increase single fare price during weekends
